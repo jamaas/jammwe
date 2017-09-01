@@ -1,0 +1,24 @@
+Package: jammwe
+Title: Trial of Passing Parameter Values to Nested Functions
+Version: 0.1
+Authors@R: person("James", "Maas", email = "jimmaasuk@gmail.com", role = c("aut", "cre"))
+Description: This is a test package to work out how to pass parameter values to low level nested functions, at time of execution of top level function.
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Collate:
+    'acomb.R'
+    'Annualization.R'
+    'ConGld.R'
+    'MealSize.R'
+    'OysCal.R'
+    'OysDos.R'
+    'Parameters.R'
+    'PrbInfBep.R'
+    'PrpGld.R'
+    'TotDos.R'
+    'VirVia.R'
+    'QMRA10.R'
+    'Calcs.R'
+    
